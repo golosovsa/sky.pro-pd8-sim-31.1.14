@@ -10,7 +10,7 @@
   },
   {
     "model": "auth.user",
-    "pk": 1,
+    "pk": 2,
     "fields": {
       "username": "sky_user2",
       "email": "learning2@skypro.ru",
