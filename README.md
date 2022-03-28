@@ -152,15 +152,14 @@ Authorization: Token <token value>
 Данные из ручки отдаются в формате: 
 ```json
 {
-	"items": [
-	  {
-		"name": "choco 1"
-	  },
-      {
-		"name": "choco 2"
-	  }
-	]
-}
+  "items": [
+    {
+      "name": "choco 1"
+    },
+    {
+      "name": "choco 2"
+    }
+  ]
 ```
 
 ### Задание get_list "Как слышно" 
