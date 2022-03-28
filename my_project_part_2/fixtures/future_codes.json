@@ -1,0 +1,9 @@
+[
+  {
+    "model": "back_to_future.code",
+    "pk": 1,
+    "fields": {
+      "code": "main"
+    }
+  }
+]

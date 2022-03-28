@@ -1,0 +1,24 @@
+[
+  {
+    "model": "try_to_dismiss.resource",
+    "pk": 1,
+    "fields": {
+      "grade": 2,
+      "name": "Николай",
+      "position": "ведущий разрабочик",
+      "daily_hours": 8,
+      "hire_date": "2022-01-10"
+    }
+  },
+  {
+    "model": "try_to_dismiss.resource",
+    "pk": 1,
+    "fields": {
+      "grade": 5,
+      "name": "Сергей",
+      "position": "тех лид",
+      "daily_hours": 8,
+      "hire_date": "2022-01-10"
+    }
+  }
+]

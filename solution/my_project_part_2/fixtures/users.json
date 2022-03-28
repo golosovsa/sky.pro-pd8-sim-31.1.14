@@ -1,0 +1,20 @@
+[
+  {
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "sky_user",
+      "email": "learning@skypro.ru",
+      "password": "pbkdf2_sha256$320000$RLQjGy9tbpCuEA0FrYAIni$KIG0H0JGM8Sz/EhG6WPwgPjxwEhBTVio/hrFG6pnO/A="
+    }
+  },
+  {
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+      "username": "sky_user2",
+      "email": "learning2@skypro.ru",
+      "password": "pbkdf2_sha256$320000$RLQjGy9tbpCuEA0FrYAIni$KIG0H0JGM8Sz/EhG6WPwgPjxwEhBTVio/hrFG6pnO/A="
+    }
+  }
+]
